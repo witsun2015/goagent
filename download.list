@@ -25,7 +25,7 @@ URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
 PROCESS-NAME,Weiyun.exe
 #Baidu disk
 PROCESS-NAME,baidunetdisk.exe
-#for jike 官方配置
+# for jike
 PROCESS-NAME,hysteria
 PROCESS-NAME,hysteria.exe
 PROCESS-NAME,leaf
