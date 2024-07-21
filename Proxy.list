@@ -1,0 +1,25 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,openert.ai
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,google
+
+# IP段匹配
+IP-CIDR,142.171.133.131/32,
+IP-CIDR,103.115.43.2/32
+
+# 国外DNS
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,dot.sb
+DOMAIN-SUFFIX,dns.umbrella.com
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,doh.dns.sb
+DOMAIN-SUFFIX,doh.opendns.com
+IP-CIDR,8.8.8.8/32
+IP-CIDR,8.8.4.4/32
+IP-CIDR,208.67.222.222/32
+IP-CIDR,208.67.220.220/32
